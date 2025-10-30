@@ -1,0 +1,8 @@
+prefix=/home/gec/shiyan2zuizhong/shiyan2/lio_icp/devel
+
+Name: lio_ndt
+Description: Description of lio_ndt
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
