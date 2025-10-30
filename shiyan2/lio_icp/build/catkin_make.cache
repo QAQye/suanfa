@@ -1,0 +1,2 @@
+lio_ndt
+-DCATKIN_DEVEL_PREFIX=/home/gec/shiyan2/lio_icp/devel -DCMAKE_INSTALL_PREFIX=/home/gec/shiyan2/lio_icp/install -G Unix Makefiles
